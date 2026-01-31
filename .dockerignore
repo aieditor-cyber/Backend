@@ -11,6 +11,9 @@ dist/
 build/
 .env
 .venv
-outputs/
+outputs/*
+!outputs/.gitkeep
+.git
+.gitignore
 *.log
 .DS_Store
